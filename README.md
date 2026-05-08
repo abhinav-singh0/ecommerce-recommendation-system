@@ -205,11 +205,12 @@ For major changes, please open an issue first to discuss proposed modifications.
 
 ---
 
-## 📧 Contact
+# 📧 Contact
 
-**Abhinav Singh**  
-IIT Dharwad  
+### Abhinav Singh
+Indian Institute of Technology Dharwad
+
 📧 ee25mt010@iitdh.ac.in
 
-Project Link:  
-https://github.com/abhinav-singh0/ecommerce-recommendation-system
+GitHub:
+https://github.com/abhinav-singh0
